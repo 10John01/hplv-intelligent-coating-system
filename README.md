@@ -1,6 +1,6 @@
 Intelligent Industrial HPLV Coating System
 
-Built by John Thomas DuCrest Lock in collaboration with James Lee and multiple AI systems over 9 months of iterative development.
+Created by John Thomas DuCrest Lock in collaboration with James Lee and multiple AI systems over 9 months of iterative development.
 
 What Happened
 Week 3 of adapting a vertical wall printer for coating work: discovered proprietary restrictions and pivoted away.
