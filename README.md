@@ -59,4 +59,3 @@ This is production code that runs real equipment. Every commented section and pa
 ## Source Code:
 The complete Job Security v18.3 control system: [job_security_v18.3.cpp](https://github.com/10John01/hplv-intelligent-coating-system/blob/main/code/job_security_v18.3.cpp)
 
-*Note: This is working production code with 183 iterations of development. Comments and patches show the real engineering process.*
