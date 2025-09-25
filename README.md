@@ -44,7 +44,7 @@ What We Built
 
 ## 🎥 Demo Video
 
-A $20K proprietary paperweight, reborn into a $1K intelligent HPLV system - (12s clip):
+A $20K proprietary paperweight, reborn into an intelligent HPLV system - (12s clip):
 
 **Operated by Teresa, Lead Coater at FX Industries.**
 
