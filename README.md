@@ -42,6 +42,12 @@ What We Built
 
 **Load-Compensated Z-Axis Ramping**: Time-based acceleration curves optimized for heavy spray assembly. Solved the 50-pound safety problem by relocating TRUE HOME to bottom - Z-axis only moves up.
 
+## 🎥 Demo Video
+
+Watch her in action (12s clip):
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/klHbX47O5l0/0.jpg)](https://youtu.be/klHbX47O5l0)
+
 ## Credits
 - **Lady Ada & Adafruit**: FRAM technology and hardware foundation, always a solid choice for Hardware!
 - **SparkFun & Amazon**: Component ecosystem  
