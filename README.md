@@ -40,7 +40,7 @@ What We Built
 
 **Position Drift Detection**: Multi-counter tracking with checksum validation detects and corrects accumulated positioning errors automatically.
 
-**Load-Compensated Z-Axis Ramping**: Time-based acceleration curves optimized for heavy spray assembly. Solved the 50-pound safety problem by relocating TRUE HOME to bottom - Z-axis only moves up.
+**Load-Compensated Z-Axis Ramping**: Time-based acceleration curves optimized for heavy spray assembly. Solved the 50-pound safety problem by relocating TRUE HOME to bottom.
 
 ## 🎥 Demo Video
 
