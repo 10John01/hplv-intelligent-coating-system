@@ -1,4 +1,4 @@
-Intelligent Industrial HPLV Coating System
+Intelligent Industrial HVLP Coating System
 
 Created by John Thomas DuCrest Lock in collaboration with James Lee and multiple AI systems over 9 months of iterative development.
 
