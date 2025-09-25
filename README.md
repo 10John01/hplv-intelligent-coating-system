@@ -44,7 +44,7 @@ What We Built
 
 ## 🎥 Demo Video
 
-Watch her in action (12s clip):
+A $20K proprietary paperweight, reborn into a $1K intelligent HPLV system - (12s clip):
 
 [![Watch the demo on YouTube](https://img.youtube.com/vi/klHbX47O5l0/0.jpg)](https://youtu.be/klHbX47O5l0)
 
