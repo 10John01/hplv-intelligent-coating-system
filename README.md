@@ -52,6 +52,7 @@ We took a $20K proprietary paperweight and created our own proprietary intellige
 [![Watch the demo on YouTube](https://img.youtube.com/vi/klHbX47O5l0/0.jpg)](https://youtu.be/klHbX47O5l0)
 
 ## Credits
+- **FX Industries**: Without the support of FX Industries; primarially Wil DuCrest, Beth Lock and Bruce Clark, Job Security would be a pipe dream.
 - **Lady Ada & Adafruit**: FRAM technology and hardware foundation, always a solid choice for Hardware!
 - **SparkFun & Amazon**: Components like sheilded wiring, cable ties, etc.  
 - **Multiple AI collaborators**: ChatGPT-o4/5/5 Instant, Claude Sonnet 4, ChatGPT-4.1 API
